@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 3 |
+| 4 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [implementation](#implementation) (2)
-- [math](#math) (2)
+- [math](#math) (3)
 - [number theory](#number-theory) (1)
 
 ---
@@ -29,6 +29,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
 | 1203C | [Common Divisors](https://codeforces.com/contest/1203/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1203/C%20-%20Common%20Divisors/solution.cpp) |
 | 2125B | [Left and Down](https://codeforces.com/contest/2125/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/2125/B%20-%20Left%20and%20Down/solution.cpp) |
 
