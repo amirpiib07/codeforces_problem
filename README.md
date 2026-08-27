@@ -6,15 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 6 |
+| 7 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (4)
-- [math](#math) (3)
+- [implementation](#implementation) (5)
+- [math](#math) (4)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (2)
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
@@ -41,6 +42,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 1203C | [Common Divisors](https://codeforces.com/contest/1203/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1203/C%20-%20Common%20Divisors/solution.cpp) |
 | 2125B | [Left and Down](https://codeforces.com/contest/2125/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/2125/B%20-%20Left%20and%20Down/solution.cpp) |
 
