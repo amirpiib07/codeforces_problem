@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 7 |
+| 9 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (2)
+- [dp](#dp) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (5)
 - [math](#math) (4)
@@ -27,6 +28,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 25A | [IQ test](https://codeforces.com/contest/25/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/25/A%20-%20IQ%20test/solution.cpp) |
+| 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.cpp) |
 
 ### greedy
 
