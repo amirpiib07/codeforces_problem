@@ -6,22 +6,29 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 8 |
+| 14 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (2)
 - [dp](#dp) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (9)
+- [implementation](#implementation) (10)
 - [math](#math) (4)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (5)
 
 ---
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.cpp) |
 
 ### brute force
 
@@ -55,6 +62,7 @@
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 1203C | [Common Divisors](https://codeforces.com/contest/1203/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1203/C%20-%20Common%20Divisors/solution.cpp) |
+| 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.cpp) |
 
 ### math
 
