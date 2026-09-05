@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 10 |
+| 17 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (2)
 - [dp](#dp) (1)
@@ -30,6 +30,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
+| 2259C | [101](https://codeforces.com/contest/2259/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/2259/C%20-%20101/solution.cpp) |
 
 ### bitmasks
 
