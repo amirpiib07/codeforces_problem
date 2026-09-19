@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 10 |
+| 27 | 10 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [brute force](#brute-force) (3)
 - [dp](#dp) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (16)
+- [implementation](#implementation) (17)
 - [math](#math) (9)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
@@ -77,6 +77,7 @@
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 1203C | [Common Divisors](https://codeforces.com/contest/1203/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1203/C%20-%20Common%20Divisors/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
+| 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1760/A%20-%20Medium%20Number/solution.cpp) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.cpp) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.cpp) |
