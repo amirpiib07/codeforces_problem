@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/617/problem/A" target="_blank" rel="noopener noreferrer">617A — Elephant</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 617A](https://codeforces.com/contest/617/problem/A) |
+
+## Topics
+`math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Elephant</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>An elephant decided to visit his friend. It turned out that the elephant's house is located at point <span class="tex-span">0</span> and his friend's house is located at point <span class="tex-span"><i>x</i>(<i>x</i> > 0)</span> of the coordinate line. In one step the elephant can move <span class="tex-span">1</span>, <span class="tex-span">2</span>, <span class="tex-span">3</span>, <span class="tex-span">4</span> or <span class="tex-span">5</span> positions forward. Determine, what is the minimum number of steps he need to make in order to get to his friend's house.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of the input contains an integer <span class="tex-span"><i>x</i></span> (<span class="tex-span">1 ≤ <i>x</i> ≤ 1 000 000</span>) — The coordinate of the friend's house.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print the minimum number of steps that elephant needs to make to get from point <span class="tex-span">0</span> to point <span class="tex-span"><i>x</i></span>.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id007265089862411931" id="id00534465451863614" class="input-output-copier">Copy</div></div><pre id="id007265089862411931">5<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id007765257429950043" id="id0012978891049262298" class="input-output-copier">Copy</div></div><pre id="id007765257429950043">1<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id005375153749790038" id="id009420474138857642" class="input-output-copier">Copy</div></div><pre id="id005375153749790038">12<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id006791721101306845" id="id0037394230141550366" class="input-output-copier">Copy</div></div><pre id="id006791721101306845">3<br></pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first sample the elephant needs to make one step of length <span class="tex-span">5</span> to reach the point <span class="tex-span"><i>x</i></span>.</p><p>In the second sample the elephant can get to point <span class="tex-span"><i>x</i></span> if he moves by <span class="tex-span">3</span>, <span class="tex-span">5</span> and <span class="tex-span">4</span>. There are other ways to get the optimal answer but the elephant cannot reach <span class="tex-span"><i>x</i></span> in less than three moves.</p></div>
