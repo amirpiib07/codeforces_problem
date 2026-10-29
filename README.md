@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 72 | 14 |
+| 73 | 14 |
 
 ---
 
@@ -20,8 +20,8 @@
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (15)
-- [implementation](#implementation) (43)
-- [math](#math) (21)
+- [implementation](#implementation) (44)
+- [math](#math) (22)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (8)
 - [strings](#strings) (13)
@@ -135,6 +135,7 @@
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
@@ -164,6 +165,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
+| 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.cpp) |
 | 1203C | [Common Divisors](https://codeforces.com/contest/1203/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1203/C%20-%20Common%20Divisors/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
