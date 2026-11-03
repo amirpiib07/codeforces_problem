@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 74 | 14 |
+| 75 | 14 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (3)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (10)
+- [brute force](#brute-force) (11)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [games](#games) (1)
@@ -56,6 +56,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 25A | [IQ test](https://codeforces.com/contest/25/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/25/A%20-%20IQ%20test/solution.cpp) |
+| 80A | [Panoramix's Prediction](https://codeforces.com/contest/80/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/80/A%20-%20Panoramix's%20Prediction/solution.cpp) |
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
 | 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/231/A%20-%20Team/solution.cpp) |
