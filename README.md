@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 75 | 14 |
+| 76 | 14 |
 
 ---
 
@@ -16,12 +16,12 @@
 - [Uncategorized](#uncategorized) (3)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (11)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (15)
 - [implementation](#implementation) (44)
-- [math](#math) (22)
+- [math](#math) (23)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (8)
 - [strings](#strings) (14)
@@ -71,6 +71,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
+| 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.cpp) |
 
 ### dp
 
@@ -171,6 +172,7 @@
 | 1203C | [Common Divisors](https://codeforces.com/contest/1203/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1203/C%20-%20Common%20Divisors/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
+| 1343B | [Balanced Array](https://codeforces.com/contest/1343/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1343/B%20-%20Balanced%20Array/solution.cpp) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
