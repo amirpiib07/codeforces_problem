@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 77 | 14 |
+| 78 | 14 |
 
 ---
 
@@ -21,9 +21,9 @@
 - [games](#games) (1)
 - [greedy](#greedy) (15)
 - [implementation](#implementation) (44)
-- [math](#math) (23)
+- [math](#math) (24)
 - [number theory](#number-theory) (5)
-- [sortings](#sortings) (8)
+- [sortings](#sortings) (9)
 - [strings](#strings) (14)
 - [two pointers](#two-pointers) (1)
 
@@ -180,6 +180,7 @@
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2125B | [Left and Down](https://codeforces.com/contest/2125/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/2125/B%20-%20Left%20and%20Down/solution.cpp) |
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ### number theory
@@ -202,6 +203,7 @@
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.cpp) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/1760/A%20-%20Medium%20Number/solution.cpp) |
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.cpp) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
