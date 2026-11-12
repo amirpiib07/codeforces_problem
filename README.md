@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 81 | 14 |
+| 82 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (4)
+- [Uncategorized](#uncategorized) (5)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (12)
 - [constructive algorithms](#constructive-algorithms) (2)
@@ -43,6 +43,7 @@
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/2259/C%20-%20101/solution.cpp) |
 | 2290A | [Three Piles](https://codeforces.com/contest/2290/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/2290/A%20-%20Three%20Piles/solution.cpp) |
+| 2290B | [Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/amirpiib07/codeforces_problem/blob/HEAD/2290/B%20-%20Stubborn%20Pen/solution.cpp) |
 
 ### bitmasks
 
