@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/492/problem/A" target="_blank" rel="noopener noreferrer">492A — Vanya and Cubes</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 492A](https://codeforces.com/contest/492/problem/A) |
+
+## Topics
+`implementation`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Vanya and Cubes</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>Vanya got <span class="tex-span"><i>n</i></span> cubes. He decided to build a pyramid from them. Vanya wants to build the pyramid as follows: the top level of the pyramid must consist of <span class="tex-span">1</span> cube, the second level must consist of <span class="tex-span">1 + 2 = 3</span> cubes, the third level must have <span class="tex-span">1 + 2 + 3 = 6</span> cubes, and so on. Thus, the <span class="tex-span"><i>i</i></span>-th level of the pyramid must have <span class="tex-span">1 + 2 + ... + (<i>i</i> - 1) + <i>i</i></span> cubes.</p><p>Vanya wants to know what is the maximum height of the pyramid that he can make using the given cubes.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains integer <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">4</sup></span>) — the number of cubes given to Vanya.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print the maximum possible height of the pyramid in the single line.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0003366090911765951" id="id003386629402769191" class="input-output-copier">Copy</div></div><pre id="id0003366090911765951">1<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id004455399496970448" id="id004408331260760423" class="input-output-copier">Copy</div></div><pre id="id004455399496970448">1<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id00012895887258603578" id="id002937635447295247" class="input-output-copier">Copy</div></div><pre id="id00012895887258603578">25<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id006989106404846785" id="id00691060289929829" class="input-output-copier">Copy</div></div><pre id="id006989106404846785">4<br></pre></div></div></div><div class="note"><div class="section-title">Note</div><p>Illustration to the second sample: </p><center> <img class="tex-graphics" src="https://espresso.codeforces.com/88ce5484b295f8653c3b7fa67b9b3643a9cc2328.png" style="max-width: 100.0%;max-height: 100.0%;"> </center></div>
